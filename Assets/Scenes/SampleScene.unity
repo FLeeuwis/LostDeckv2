@@ -461,6 +461,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: CardPrefab
       objectReference: {fileID: 0}
+    - target: {fileID: 7283238980089272033, guid: 6a7b3f05f44304f429054a66afb7c386, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7283238980089272033, guid: 6a7b3f05f44304f429054a66afb7c386, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 7283238980089272033, guid: 6a7b3f05f44304f429054a66afb7c386, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -1.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7283238980089272033, guid: 6a7b3f05f44304f429054a66afb7c386, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.15
+      objectReference: {fileID: 0}
     - target: {fileID: 7694490152516759615, guid: 6a7b3f05f44304f429054a66afb7c386, type: 3}
       propertyPath: m_Camera
       value: 
